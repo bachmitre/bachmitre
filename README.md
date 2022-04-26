@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-https://www.buymeacoffee.com/bachmitrek
+https://www.buymeacoffee.com/bachmitre
 
 <!--
 **bachmitre/bachmitre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
